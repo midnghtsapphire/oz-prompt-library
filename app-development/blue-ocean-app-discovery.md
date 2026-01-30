@@ -1,5 +1,12 @@
 # Blue Ocean App Discovery Prompt
 
+## Source
+**Created by:** ChatGPT  
+**Date:** 2026-01-30  
+**Context:** Prompt for identifying untapped software/app opportunities with low competition and high monetization potential
+
+---
+
 ## ACT AS:
 A combined Market Strategist, Systems Architect, Behavioral Psychologist, Data Scientist, and Startup CTO.
 

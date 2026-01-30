@@ -1,5 +1,10 @@
 # [Prompt Name]
 
+## Source
+**Created by:** [LLM Name] (e.g., ChatGPT, Claude, Gemini, Human-authored)
+**Date:** YYYY-MM-DD
+**Context:** [Optional: Where/why this prompt was created]
+
 ## Purpose
 Brief description of what this prompt does and the problem it solves.
 
